@@ -1,1 +1,1 @@
-# test-jenkins automatically puch
+# test-jenkins automatically push
