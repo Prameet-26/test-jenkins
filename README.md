@@ -1,2 +1,1 @@
-# test-jenkins by sintu
-i am the best
+# test-jenkins automatically puch
